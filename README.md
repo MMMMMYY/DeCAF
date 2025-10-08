@@ -14,7 +14,7 @@ It monitors model output probabilities across sensitive attributes and communica
 
 - **`concealed_attack.py`** – Defines the **Concealed Fairness Attack (CFA)**, including data poisoning based and model poisoning based.
 
-- **`datasets_utils.py`** – Provides dataset loading and preprocessing utilities for tabular datasets such as **Adult**, **Campus**, and **Drug Consumption**.  
+- **`datasets_utils.py`** – Provides dataset loading and preprocessing utilities for tabular datasets such as **Adult**, **UTKFace**, and **Drug Consumption**.  
   Supports sensitive attribute partitioning (e.g., gender, race) and label encoding.
 
 - **`evaluation.py`** – Computes performance and fairness metrics:
