@@ -37,4 +37,4 @@ It monitors model output probabilities across sensitive attributes and communica
 
 ## Usage
 
-See example run on the **`adult_script.py`** dataset.
+See example run in the **`adult_script.py`**.
